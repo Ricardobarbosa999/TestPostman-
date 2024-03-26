@@ -11,3 +11,4 @@
 
   ## Proximos Passos
 - Subir para pipelines no Jenkins e executar de forma automatizada
+- Realizar o report no HTML
