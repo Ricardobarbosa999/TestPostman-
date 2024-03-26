@@ -8,4 +8,6 @@
 - Foi validado o Response Body da API 
 - Foi validado o Json schema
 - Foi criado Variáveis de ambiente no "Envieronments" facilitando a utilização de links de serviço.
-  
+
+  ## Proximos Passos
+- Subir para pipelines no Jenkins e executar de forma automatizada
